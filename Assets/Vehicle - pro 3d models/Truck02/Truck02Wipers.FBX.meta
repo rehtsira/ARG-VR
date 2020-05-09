@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 197acb254eeecde4da208177314fd1e1
+timeCreated: 1555673031
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wipers
+    100004: Wipers_LOD0
+    100006: Wipers_LOD1
+    100008: Wipers_LOD2
+    100010: WipersLeft
+    100012: WipersLeft2
+    100014: WipersLeft_LOD0
+    100016: WipersLeft_LOD1
+    100018: WipersLeft_LOD2
+    100020: WipersRight
+    100022: WipersRight2
+    100024: WipersRight2 1
+    100026: WipersRight_LOD0
+    100028: WipersRight_LOD1
+    100030: WipersRight_LOD2
+    400000: //RootNode
+    400002: Wipers
+    400004: Wipers_LOD0
+    400006: Wipers_LOD1
+    400008: Wipers_LOD2
+    400010: WipersLeft
+    400012: WipersLeft2
+    400014: WipersLeft_LOD0
+    400016: WipersLeft_LOD1
+    400018: WipersLeft_LOD2
+    400020: WipersRight
+    400022: WipersRight2
+    400024: WipersRight2 1
+    400026: WipersRight_LOD0
+    400028: WipersRight_LOD1
+    400030: WipersRight_LOD2
+    2300000: Wipers_LOD0
+    2300002: Wipers_LOD1
+    2300004: Wipers_LOD2
+    2300006: WipersLeft_LOD0
+    2300008: WipersLeft_LOD1
+    2300010: WipersLeft_LOD2
+    2300012: WipersRight_LOD0
+    2300014: WipersRight_LOD1
+    2300016: WipersRight_LOD2
+    3300000: Wipers_LOD0
+    3300002: Wipers_LOD1
+    3300004: Wipers_LOD2
+    3300006: WipersLeft_LOD0
+    3300008: WipersLeft_LOD1
+    3300010: WipersLeft_LOD2
+    3300012: WipersRight_LOD0
+    3300014: WipersRight_LOD1
+    3300016: WipersRight_LOD2
+    4300000: WipersLeft_LOD0
+    4300002: WipersLeft_LOD1
+    4300004: WipersLeft_LOD2
+    4300006: WipersRight_LOD0
+    4300008: Wipers_LOD0
+    4300010: Wipers_LOD1
+    4300012: Wipers_LOD2
+    4300014: WipersRight_LOD1
+    4300016: WipersRight_LOD2
+    7400000: WipersMove
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WipersMove
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

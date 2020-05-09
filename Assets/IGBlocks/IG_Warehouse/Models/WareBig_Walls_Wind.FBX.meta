@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: a0c12016b5380c7439fb890ed41dc905
+timeCreated: 1500317852
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object001
+    100002: WareBig_Column
+    100004: WareBig_W
+    100006: //RootNode
+    100008: WareBig_Walls_Wind
+    100010: WareBig_Wind
+    100012: WareBig_Windglass
+    400000: Object001
+    400002: WareBig_Column
+    400004: WareBig_W
+    400006: //RootNode
+    400008: WareBig_Walls_Wind
+    400010: WareBig_Wind
+    400012: WareBig_Windglass
+    2300000: Object001
+    2300002: WareBig_Column
+    2300004: WareBig_W
+    2300006: WareBig_Walls_Wind
+    2300008: WareBig_Wind
+    2300010: WareBig_Windglass
+    3300000: Object001
+    3300002: WareBig_Column
+    3300004: WareBig_W
+    3300006: WareBig_Walls_Wind
+    3300008: WareBig_Wind
+    3300010: WareBig_Windglass
+    4300000: WareBig_Wind
+    4300002: WareBig_Windglass
+    4300004: WareBig_Column
+    4300006: WareBig_W
+    4300008: WareBig_Walls_Wind
+    4300010: Object001
+    6400000: Object001
+    6400002: WareBig_Column
+    6400004: WareBig_W
+    6400006: WareBig_Walls_Wind
+    6400008: WareBig_Wind
+    6400010: WareBig_Windglass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
